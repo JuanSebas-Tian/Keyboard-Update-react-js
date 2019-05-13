@@ -1,0 +1,75 @@
+.contenido {
+    position: relative;
+    width: 900px;
+    height: 510px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    margin: 0 auto;
+}
+
+.empareja {
+    position: relative;
+    width: 800px;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-content: center;
+}
+
+.firstCol {
+    position: relative;
+    width: 400px;
+    /* display: block; */
+    text-align: left;
+}
+
+.SecondCol {
+    position: relative;
+    width: 400px;
+    /* display: block; */
+    text-align: right;
+}
+
+.empareFirstComp {
+    position: relative;
+    width: 250px;
+    height: 150px;
+    background: url('./assets/Elements/empareFirstComp.png') no-repeat 100%;
+}
+
+.empareSecoComp {
+    position: relative;
+    width: 250px;
+    height: 150px;
+    background: url('./assets/Elements/empareSecoComp.png') no-repeat 100%;
+}
+
+.empareTercComp {
+    position: relative;
+    width: 250px;
+    height: 150px;
+    background: url('./assets/Elements/empareTercComp.png') no-repeat 100%;
+}
+
+.empareFirstCompEnd {
+    position: relative;
+    width: 250px;
+    height: 150px;
+    background-color: #4080C0;
+}
+
+.empareSecoCompEnd {
+    position: relative;
+    width: 250px;
+    height: 150px;
+    background-color: #4080C0;
+}
+
+.empareTercCompEnd {
+    position: relative;
+    width: 250px;
+    height: 150px;
+    background-color: #4080C0;
+}

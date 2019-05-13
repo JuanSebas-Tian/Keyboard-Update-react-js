@@ -1,0 +1,92 @@
+.contenido {
+    background-color: blanchedalmond;
+    position: relative;
+    min-width: 100vmin;
+    /* min-height: 100vmin; */
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.arrowKey {
+    position: relative;
+    min-width: 100vmin;
+    /* height: 88vmin; */
+    /* display: inline-block;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    border: 1px solid #4080C0; */
+}
+
+.empareja {
+    position: relative;
+    min-width: 98vw;
+    /* height: 88vmin; */
+    display: inline-block;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    border: 1px solid #4080C0;
+}
+
+/* .row .mainCol {
+    margin: 0 30px;
+} */
+
+.mainCol {
+    background-color: darkseagreen;
+    position: relative;
+    width: 95vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 10px auto;
+}
+
+.dedo {
+    border-radius: 50%;
+    background-color: darkslategray;
+    position: relative;
+    width: 10vmin;
+    height: 10vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.cont {
+    border-radius: 50%;
+    background-color:greenyellow;
+    position: relative;
+    width: 20vmin;
+    height: 13vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 10px;
+}
+
+.comp {
+    border-radius: 50%;
+    background-color: greenyellow;
+    position: relative;
+    width: 20vmin;
+    height: 13vh;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: 10px;
+}
